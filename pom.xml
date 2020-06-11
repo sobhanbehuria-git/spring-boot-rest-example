@@ -5,7 +5,7 @@
 
 	<groupId>com.khoubyari</groupId>
 	<artifactId>sample</artifactId>
-	<version></version>
+	<version>0.5</version>
 	<packaging>jar</packaging>
 	<description>Example project demonstrating REST APIs implemented using Spring Boot, in-memory database, embedded Tomcat, Swagger, JsonPath, Hamcrest and MockMVC</description>
 
